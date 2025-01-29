@@ -10,7 +10,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorpaulo-dapenha&hide_progress=true)
 
 
-## Tecnologias do meu uso diário
+## Habilidades 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )]()
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
